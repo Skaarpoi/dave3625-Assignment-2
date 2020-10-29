@@ -1,4 +1,5 @@
 # dave3625-Assignment-2
+Sebastian Skaar Simenstad s331355
 
 Use case picked: 1
 
